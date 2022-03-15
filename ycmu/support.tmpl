@@ -1,0 +1,27 @@
+     {{1}} Roll No: {{printf "%-25v" .RollNo}}Regn: {{printf "%-21v" .RegNo}}N: {{printf "%-19v" .StudentName}}F: {{printf "%-17v" .FatherName}}M: {{printf "%-13v" .MotherName}}DMC No: {{printf "%-8v" .DMCNo }}Result Date: {{printf "%-25v" .ResDate }}{{slice .Status 0 1}}
+
+          {{- range $pindex, $paper := .Papers}}
+     {{printf "%-22v" .PaperCode}}{{$pn := wrap .PaperName 40}}{{index $pn 0}}{{printf "%-7v" .AM}} {{center .EA.Max 5}}{{center .EA.Obt 7}}{{center .EA.Min 5}} {{center .IA.Max 5}}{{center .IA.Obt 7}}{{center .IA.Min 5}} {{center .Total.Max 5}}{{center .Total.Obt 7}}{{center .Total.Min 5}} {{center .Credits 9}}{{center .GradePoints 9}}          {{center .GradeResult 5}}        {{printf "%5v" .EstGradePoint}}  {{center .Status 5}} {{center .Remark 7}}
+               {{- if len $pn | lt 1}}
+                    {{- $arr:= slice $pn 1}}
+                    {{- range $arr}}
+     {{vPad " " 22}}{{.}}
+                    {{- end}}
+               {{- end}}
+          {{- end}}
+          {{- $l := ne "" .Obt}}{{$r := ne "-" .Obt}}
+          {{- if and $l $r}}
+     {{printf "%v/%v" .Obt $.MaxMarks}}
+          {{- end}}
+          {{- if .HeldBack}}
+     {{ .HeldBack }} -  As per Ordinance {{.HeldBackPaper}}
+          {{- else}}
+{{- "\n" }}
+          {{- end}}
+          {{- if .HeldBack}}
+     {{ .HeldBack }}
+          {{- else}}
+     {{ .Status }} 
+          {{- end -}}
+{{ " " }}-  As per Ordinance      SGPA: {{.TotalGP}}/{{printf "%-5v" .ESGP}}   : {{printf "%-10v" .SGPA}}        CGPA: {{printf "%-7v" .CGPA}}     Max Grace: {{printf "%-12v" .MaxGrace}}Avail Grace: {{printf "%-12v" .AvailGrace}}Bal Grace: {{printf "%-12v" .BalGrace}}Per: {{printf "%-11v" .Percentage}}Final Grade: {{printf "%-11v" .FinalGrade}}
+     {{vPad "-" 187}}     

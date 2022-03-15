@@ -1,0 +1,1826 @@
+{
+    "University": "Mumbai University",
+    "MinSubject": "6",
+    "MaxSubject": "8",
+    "MaxMarks": "700",
+    "TotalCredits": "10",
+    "PassingPercent": "",
+    "ExamEvent":"DECEMBER-2018",
+    "Program": "M.Com.(with credits)",
+    "ProgramPart": "F.Y.M.Com",
+    "ProgramPartTerm":"Sem-I",
+    "EvalScheme":"CBCS Pattern(No Branch)",
+    "AppearanceType":"Regular",
+    "Colleges": [
+        {
+            "CollegeName": "C.M.K. National Girls College, Sirsa",
+            "Students": [
+                {
+                    "RollNo": "170010240004",
+                    "RegNo": "2017035500103662",
+                    "StudentName": "NISHA KAMBOJ",
+                    "FatherName": "GURNAM SINGH",
+                    "MotherName": "PARMJIT KAUR",
+                    "DMCNo": "1930623",
+                    "ResDate": "16 Nov 2021",
+                    "Status": "-",
+                    "HeldBack": "RLA",
+                    "HeldBackPaper": "-",
+                    "Obt": "-",
+                    "SGPA": "-",
+                    "TotalGP": "-",
+                    "ESGP": "-",
+                    "CGPA": "-",
+                    "MaxGrace": "5",
+                    "AvailGrace": "0",
+                    "BalGrace": "0",
+                    "Percentage": "-",
+                    "FinalGrade": "-",
+                    "Papers": [
+                        {
+                            "PaperCode":"MCO01",
+                            "PaperName":"Management Process and Organization Behaviour",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "33",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "56"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO02",
+                            "PaperName":"Business Environment",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "31",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "21"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "52"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "6.0",
+                            "GradeResult": "B",
+                            "EstGradePoint": "24.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO03",
+                            "PaperName":"Economic Analysis",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "30",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "22"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "52"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "6.0",
+                            "GradeResult": "B",
+                            "EstGradePoint": "24.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO04",
+                            "PaperName":"Financial Accounting and Reporting",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "34",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "57"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO05",
+                            "PaperName":"Business Statistics",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "RLA",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "26"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "RLA"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "8.0",
+                            "GradeResult": "A",
+                            "EstGradePoint": "RLA",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO06",
+                            "PaperName":"Computer Applications in Business and Cyber Security",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "40",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "26"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "66"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "8.0",
+                            "GradeResult": "A",
+                            "EstGradePoint": "32.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        }
+                    ]
+                },
+                {
+                    "RollNo": "170010240004",
+                    "RegNo": "2017035500103662",
+                    "StudentName": "NISHA KAMBOJ",
+                    "FatherName": "GURNAM SINGH",
+                    "MotherName": "PARMJIT KAUR",
+                    "DMCNo": "1930623",
+                    "ResDate": "16 Nov 2021",
+                    "Status": "-",
+                    "HeldBack": "RLA",
+                    "HeldBackPaper": "-",
+                    "Obt": "-",
+                    "SGPA": "-",
+                    "TotalGP": "-",
+                    "ESGP": "-",
+                    "CGPA": "-",
+                    "MaxGrace": "5",
+                    "AvailGrace": "0",
+                    "BalGrace": "0",
+                    "Percentage": "-",
+                    "FinalGrade": "-",
+                    "Papers": [
+                        {
+                            "PaperCode":"MCO01",
+                            "PaperName":"Management Process and Organization Behaviour",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "33",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "56"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO02",
+                            "PaperName":"Business Environment",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "31",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "21"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "52"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "6.0",
+                            "GradeResult": "B",
+                            "EstGradePoint": "24.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO03",
+                            "PaperName":"Economic Analysis",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "30",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "22"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "52"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "6.0",
+                            "GradeResult": "B",
+                            "EstGradePoint": "24.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO04",
+                            "PaperName":"Financial Accounting and Reporting",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "34",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "57"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO05",
+                            "PaperName":"Business Statistics",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "RLA",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "26"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "RLA"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "8.0",
+                            "GradeResult": "A",
+                            "EstGradePoint": "RLA",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO06",
+                            "PaperName":"Computer Applications in Business and Cyber Security",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "40",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "26"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "66"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "8.0",
+                            "GradeResult": "A",
+                            "EstGradePoint": "32.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        }
+                    ]
+                },
+                {
+                    "RollNo": "170010240004",
+                    "RegNo": "2017035500103662",
+                    "StudentName": "NISHA KAMBOJ",
+                    "FatherName": "GURNAM SINGH",
+                    "MotherName": "PARMJIT KAUR",
+                    "DMCNo": "1930623",
+                    "ResDate": "16 Nov 2021",
+                    "Status": "-",
+                    "HeldBack": "RLA",
+                    "HeldBackPaper": "-",
+                    "Obt": "-",
+                    "SGPA": "-",
+                    "TotalGP": "-",
+                    "ESGP": "-",
+                    "CGPA": "-",
+                    "MaxGrace": "5",
+                    "AvailGrace": "0",
+                    "BalGrace": "0",
+                    "Percentage": "-",
+                    "FinalGrade": "-",
+                    "Papers": [
+                        {
+                            "PaperCode":"MCO01",
+                            "PaperName":"Management Process and Organization Behaviour",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "33",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "56"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO02",
+                            "PaperName":"Business Environment",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "31",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "21"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "52"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "6.0",
+                            "GradeResult": "B",
+                            "EstGradePoint": "24.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO03",
+                            "PaperName":"Economic Analysis",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "30",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "22"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "52"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "6.0",
+                            "GradeResult": "B",
+                            "EstGradePoint": "24.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO04",
+                            "PaperName":"Financial Accounting and Reporting",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "34",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "57"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO05",
+                            "PaperName":"Business Statistics",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "RLA",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "26"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "RLA"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "8.0",
+                            "GradeResult": "A",
+                            "EstGradePoint": "RLA",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO06",
+                            "PaperName":"Computer Applications in Business and Cyber Security",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "40",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "26"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "66"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "8.0",
+                            "GradeResult": "A",
+                            "EstGradePoint": "32.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        }
+                    ]
+                },
+                {
+                    "RollNo": "170010240004",
+                    "RegNo": "2017035500103662",
+                    "StudentName": "NISHA KAMBOJ",
+                    "FatherName": "GURNAM SINGH",
+                    "MotherName": "PARMJIT KAUR",
+                    "DMCNo": "1930623",
+                    "ResDate": "16 Nov 2021",
+                    "Status": "-",
+                    "HeldBack": "RLA",
+                    "HeldBackPaper": "-",
+                    "Obt": "-",
+                    "SGPA": "-",
+                    "TotalGP": "-",
+                    "ESGP": "-",
+                    "CGPA": "-",
+                    "MaxGrace": "5",
+                    "AvailGrace": "0",
+                    "BalGrace": "0",
+                    "Percentage": "-",
+                    "FinalGrade": "-",
+                    "Papers": [
+                        {
+                            "PaperCode":"MCO01",
+                            "PaperName":"Management Process and Organization Behaviour",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "33",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "56"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO02",
+                            "PaperName":"Business Environment",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "31",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "21"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "52"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "6.0",
+                            "GradeResult": "B",
+                            "EstGradePoint": "24.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO03",
+                            "PaperName":"Economic Analysis",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "30",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "22"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "52"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "6.0",
+                            "GradeResult": "B",
+                            "EstGradePoint": "24.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO04",
+                            "PaperName":"Financial Accounting and Reporting",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "34",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "57"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO05",
+                            "PaperName":"Business Statistics",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "RLA",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "26"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "RLA"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "8.0",
+                            "GradeResult": "A",
+                            "EstGradePoint": "RLA",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO06",
+                            "PaperName":"Computer Applications in Business and Cyber Security",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "40",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "26"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "66"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "8.0",
+                            "GradeResult": "A",
+                            "EstGradePoint": "32.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        }
+                    ]
+                },
+                {
+                    "RollNo": "170010240004",
+                    "RegNo": "2017035500103662",
+                    "StudentName": "NISHA KAMBOJ",
+                    "FatherName": "GURNAM SINGH",
+                    "MotherName": "PARMJIT KAUR",
+                    "DMCNo": "1930623",
+                    "ResDate": "16 Nov 2021",
+                    "Status": "-",
+                    "HeldBack": "RLA",
+                    "HeldBackPaper": "-",
+                    "Obt": "-",
+                    "SGPA": "-",
+                    "TotalGP": "-",
+                    "ESGP": "-",
+                    "CGPA": "-",
+                    "MaxGrace": "5",
+                    "AvailGrace": "0",
+                    "BalGrace": "0",
+                    "Percentage": "-",
+                    "FinalGrade": "-",
+                    "Papers": [
+                        {
+                            "PaperCode":"MCO01",
+                            "PaperName":"Management Process and Organization Behaviour",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "33",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "56"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO02",
+                            "PaperName":"Business Environment",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "31",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "21"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "52"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "6.0",
+                            "GradeResult": "B",
+                            "EstGradePoint": "24.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO03",
+                            "PaperName":"Economic Analysis",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "30",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "22"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "52"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "6.0",
+                            "GradeResult": "B",
+                            "EstGradePoint": "24.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO04",
+                            "PaperName":"Financial Accounting and Reporting",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "34",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "57"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO05",
+                            "PaperName":"Business Statistics",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "RLA",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "26"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "RLA"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "8.0",
+                            "GradeResult": "A",
+                            "EstGradePoint": "RLA",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO06",
+                            "PaperName":"Computer Applications in Business and Cyber Security",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "40",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "26"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "66"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "8.0",
+                            "GradeResult": "A",
+                            "EstGradePoint": "32.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "CollegeName": "C.M.K. National Girls College, Sirsa",
+            "Students": [
+                {
+                    "RollNo": "170010240004",
+                    "RegNo": "2017035500103662",
+                    "StudentName": "NISHA KAMBOJ",
+                    "FatherName": "GURNAM SINGH",
+                    "MotherName": "PARMJIT KAUR",
+                    "DMCNo": "1930623",
+                    "ResDate": "16 Nov 2021",
+                    "Status": "-",
+                    "HeldBack": "RLA",
+                    "HeldBackPaper": "-",
+                    "Obt": "-",
+                    "SGPA": "-",
+                    "TotalGP": "-",
+                    "ESGP": "-",
+                    "CGPA": "-",
+                    "MaxGrace": "5",
+                    "AvailGrace": "0",
+                    "BalGrace": "0",
+                    "Percentage": "-",
+                    "FinalGrade": "-",
+                    "Papers": [
+                        {
+                            "PaperCode":"MCO01",
+                            "PaperName":"Management Process and Organization Behaviour",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "33",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "56"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO02",
+                            "PaperName":"Business Environment",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "31",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "21"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "52"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "6.0",
+                            "GradeResult": "B",
+                            "EstGradePoint": "24.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO03",
+                            "PaperName":"Economic Analysis",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "30",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "22"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "52"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "6.0",
+                            "GradeResult": "B",
+                            "EstGradePoint": "24.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO04",
+                            "PaperName":"Financial Accounting and Reporting",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "34",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "57"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO05",
+                            "PaperName":"Business Statistics",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "RLA",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "26"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "RLA"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "8.0",
+                            "GradeResult": "A",
+                            "EstGradePoint": "RLA",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO06",
+                            "PaperName":"Computer Applications in Business and Cyber Security",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "40",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "26"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "66"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "8.0",
+                            "GradeResult": "A",
+                            "EstGradePoint": "32.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        }
+                    ]
+                },
+                {
+                    "RollNo": "170010240004",
+                    "RegNo": "2017035500103662",
+                    "StudentName": "NISHA KAMBOJ",
+                    "FatherName": "GURNAM SINGH",
+                    "MotherName": "PARMJIT KAUR",
+                    "DMCNo": "1930623",
+                    "ResDate": "16 Nov 2021",
+                    "Status": "-",
+                    "HeldBack": "RLA",
+                    "HeldBackPaper": "-",
+                    "Obt": "-",
+                    "SGPA": "-",
+                    "TotalGP": "-",
+                    "ESGP": "-",
+                    "CGPA": "-",
+                    "MaxGrace": "5",
+                    "AvailGrace": "0",
+                    "BalGrace": "0",
+                    "Percentage": "-",
+                    "FinalGrade": "-",
+                    "Papers": [
+                        {
+                            "PaperCode":"MCO01",
+                            "PaperName":"Management Process and Organization Behaviour",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "33",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "56"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO02",
+                            "PaperName":"Business Environment",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "31",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "21"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "52"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "6.0",
+                            "GradeResult": "B",
+                            "EstGradePoint": "24.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO03",
+                            "PaperName":"Economic Analysis",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "30",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "22"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "52"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "6.0",
+                            "GradeResult": "B",
+                            "EstGradePoint": "24.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO04",
+                            "PaperName":"Financial Accounting and Reporting",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "34",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "57"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO05",
+                            "PaperName":"Business Statistics",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "RLA",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "26"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "RLA"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "8.0",
+                            "GradeResult": "A",
+                            "EstGradePoint": "RLA",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO06",
+                            "PaperName":"Computer Applications in Business and Cyber Security",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "40",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "26"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "66"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "8.0",
+                            "GradeResult": "A",
+                            "EstGradePoint": "32.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        }
+                    ]
+                },
+                {
+                    "RollNo": "170010240004",
+                    "RegNo": "2017035500103662",
+                    "StudentName": "NISHA KAMBOJ",
+                    "FatherName": "GURNAM SINGH",
+                    "MotherName": "PARMJIT KAUR",
+                    "DMCNo": "1930623",
+                    "ResDate": "16 Nov 2021",
+                    "Status": "-",
+                    "HeldBack": "RLA",
+                    "HeldBackPaper": "-",
+                    "Obt": "-",
+                    "SGPA": "-",
+                    "TotalGP": "-",
+                    "ESGP": "-",
+                    "CGPA": "-",
+                    "MaxGrace": "5",
+                    "AvailGrace": "0",
+                    "BalGrace": "0",
+                    "Percentage": "-",
+                    "FinalGrade": "-",
+                    "Papers": [
+                        {
+                            "PaperCode":"MCO01",
+                            "PaperName":"Management Process and Organization Behaviour",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "33",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "56"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO02",
+                            "PaperName":"Business Environment",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "31",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "21"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "52"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "6.0",
+                            "GradeResult": "B",
+                            "EstGradePoint": "24.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO03",
+                            "PaperName":"Economic Analysis",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "30",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "22"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "52"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "6.0",
+                            "GradeResult": "B",
+                            "EstGradePoint": "24.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO04",
+                            "PaperName":"Financial Accounting and Reporting",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "34",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "57"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO05",
+                            "PaperName":"Business Statistics",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "RLA",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "26"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "RLA"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "8.0",
+                            "GradeResult": "A",
+                            "EstGradePoint": "RLA",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO06",
+                            "PaperName":"Computer Applications in Business and Cyber Security",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "40",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "26"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "66"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "8.0",
+                            "GradeResult": "A",
+                            "EstGradePoint": "32.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        }
+                    ]
+                },
+                {
+                    "RollNo": "170010240004",
+                    "RegNo": "2017035500103662",
+                    "StudentName": "NISHA KAMBOJ",
+                    "FatherName": "GURNAM SINGH",
+                    "MotherName": "PARMJIT KAUR",
+                    "DMCNo": "1930623",
+                    "ResDate": "16 Nov 2021",
+                    "Status": "-",
+                    "HeldBack": "RLA",
+                    "HeldBackPaper": "-",
+                    "Obt": "-",
+                    "SGPA": "-",
+                    "TotalGP": "-",
+                    "ESGP": "-",
+                    "CGPA": "-",
+                    "MaxGrace": "5",
+                    "AvailGrace": "0",
+                    "BalGrace": "0",
+                    "Percentage": "-",
+                    "FinalGrade": "-",
+                    "Papers": [
+                        {
+                            "PaperCode":"MCO01",
+                            "PaperName":"Management Process and Organization Behaviour",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "33",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "56"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO02",
+                            "PaperName":"Business Environment",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "31",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "21"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "52"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "6.0",
+                            "GradeResult": "B",
+                            "EstGradePoint": "24.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO03",
+                            "PaperName":"Economic Analysis",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "30",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "22"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "52"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "6.0",
+                            "GradeResult": "B",
+                            "EstGradePoint": "24.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO04",
+                            "PaperName":"Financial Accounting and Reporting",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "34",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "57"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO05",
+                            "PaperName":"Business Statistics",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "RLA",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "26"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "RLA"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "8.0",
+                            "GradeResult": "A",
+                            "EstGradePoint": "RLA",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO06",
+                            "PaperName":"Computer Applications in Business and Cyber Security",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "40",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "26"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "66"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "8.0",
+                            "GradeResult": "A",
+                            "EstGradePoint": "32.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        }
+                    ]
+                },
+                {
+                    "RollNo": "170010240004",
+                    "RegNo": "2017035500103662",
+                    "StudentName": "NISHA KAMBOJ",
+                    "FatherName": "GURNAM SINGH",
+                    "MotherName": "PARMJIT KAUR",
+                    "DMCNo": "1930623",
+                    "ResDate": "16 Nov 2021",
+                    "Status": "-",
+                    "HeldBack": "RLA",
+                    "HeldBackPaper": "-",
+                    "Obt": "-",
+                    "SGPA": "-",
+                    "TotalGP": "-",
+                    "ESGP": "-",
+                    "CGPA": "-",
+                    "MaxGrace": "5",
+                    "AvailGrace": "0",
+                    "BalGrace": "0",
+                    "Percentage": "-",
+                    "FinalGrade": "-",
+                    "Papers": [
+                        {
+                            "PaperCode":"MCO01",
+                            "PaperName":"Management Process and Organization Behaviour",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "33",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "56"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO02",
+                            "PaperName":"Business Environment",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "31",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "21"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "52"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "6.0",
+                            "GradeResult": "B",
+                            "EstGradePoint": "24.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO03",
+                            "PaperName":"Economic Analysis",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "30",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "22"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "52"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "6.0",
+                            "GradeResult": "B",
+                            "EstGradePoint": "24.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO04",
+                            "PaperName":"Financial Accounting and Reporting",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "34",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "57"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO05",
+                            "PaperName":"Business Statistics",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "RLA",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "26"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "RLA"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "8.0",
+                            "GradeResult": "A",
+                            "EstGradePoint": "RLA",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO06",
+                            "PaperName":"Computer Applications in Business and Cyber Security",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "40",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "26"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "40",
+                                "Obt": "66"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "8.0",
+                            "GradeResult": "A",
+                            "EstGradePoint": "32.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
