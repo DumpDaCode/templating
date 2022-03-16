@@ -1,7 +1,7 @@
 {{- range  $index, $college := .Colleges}}
      {{- $line := 0}}
      {{- range $sindex, $student := .Students}}
-          {{- if isNewPage $sindex $line $student 12 72 3}}
+          {{- if isNewPage $sindex $line $student 68 3}}
                {{- $zl := ne 0 $sindex}}{{$de := lt $line 72}}
                {{- if and $zl $de }}{{ dec 73 $line | hPad }}{{end}}
 {{- hPad 3}}

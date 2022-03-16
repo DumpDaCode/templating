@@ -54,7 +54,7 @@ func main() {
 		},
 	}
 	MKCLFunc2 := template.FuncMap{
-		"isNewPage": func(index int, currLineNo int, data interface{}, headLen int, maxLen int, maxStudents int) bool {
+		"isNewPage": func(index int, currLineNo int, data interface{}, maxLen int, maxStudents int) bool {
 			templateContent, err := ioutil.ReadFile("./ycmu/support.tmpl")
 			handleError(err)
 			temp := template.New("support").Funcs(MKCLFunc)
@@ -66,7 +66,7 @@ func main() {
 			b := p.Bytes()
 			sep := []byte{'\n'}
 			noOfLine := bytes.Count(b, sep)
-			return index%maxStudents == 0 || (currLineNo+noOfLine+headLen+1 > maxLen)
+			return index%maxStudents == 0 || (currLineNo+noOfLine+1 > maxLen)
 		},
 	}
 	temp := template.New("result").Funcs(MKCLFunc).Funcs(MKCLFunc2)

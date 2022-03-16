@@ -38,6 +38,58 @@
                     "FinalGrade": "-",
                     "Papers": [
                         {
+                            "PaperCode":"MCO91",
+                            "PaperName":"Management Process and Organization Behaviour of Colleges",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "33",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "56"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO81",
+                            "PaperName":"Management Process and Organization Behaviour of Students",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "33",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "56"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
                             "PaperCode":"MCO01",
                             "PaperName":"Management Process and Organization Behaviour",
                             "AM" :"TH",
@@ -218,6 +270,58 @@
                     "FinalGrade": "-",
                     "Papers": [
                         {
+                            "PaperCode":"MCO91",
+                            "PaperName":"Management Process and Organization Behaviour of Colleges",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "33",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "56"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO81",
+                            "PaperName":"Management Process and Organization Behaviour of Students",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "33",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "56"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
                             "PaperCode":"MCO01",
                             "PaperName":"Management Process and Organization Behaviour",
                             "AM" :"TH",
@@ -397,6 +501,58 @@
                     "Percentage": "-",
                     "FinalGrade": "-",
                     "Papers": [
+                        {
+                            "PaperCode":"MCO91",
+                            "PaperName":"Management Process and Organization Behaviour of Colleges",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "33",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "56"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
+                        {
+                            "PaperCode":"MCO81",
+                            "PaperName":"Management Process and Organization Behaviour of Students",
+                            "AM" :"TH",
+                            "EA": {
+                                "Max": "70",
+                                "Min": "33",
+                                "Obt":"28"
+                            },
+                            "IA": {
+                                "Max": "30",
+                                "Min":  "-",
+                                "Obt": "23"
+                            },
+                            "Total": {
+                                "Max": "100",
+                                "Min": "44",
+                                "Obt": "56"
+                            },
+                            "Credits": "4",
+                            "GradePoints": "7.0",
+                            "GradeResult": "B+",
+                            "EstGradePoint": "28.00",
+                            "Status": "P",
+                            "Remark": "E,X" 
+                        },
                         {
                             "PaperCode":"MCO01",
                             "PaperName":"Management Process and Organization Behaviour",
